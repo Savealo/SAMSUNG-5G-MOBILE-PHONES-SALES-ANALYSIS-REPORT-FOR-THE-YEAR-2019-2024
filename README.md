@@ -244,24 +244,156 @@ Samsung’s 5G phone revenue demonstrated extreme volatility from 2019–2024, s
 REGIONAL REVENUE CONTRIBUTION
 
 ![image](https://github.com/user-attachments/assets/80ead09d-f310-42bc-ba1f-4a7e3e109b8e)
+
 Samsung’s 5G revenue distribution reveals a strategically diversified but opportunity-rich global portfolio with Asia-Pacific dominating at $2.32 billion (37.57%), followed by Europe’s $2.04 billion (23.38%) and North America’s $2.44 billion (19.30%), creating balanced geographic risk management across developed markets, while Latin America’s negligible $2.09 million (00.10%) contribution represents a massive untapped growth opportunity that contrasts sharply with the region’s high 5G infrastructure coverage, indicating Samsung must prioritize market penetration strategies and localized pricing models in Latin America while maintaining premium positioning and retention strategies in its three established revenue-generating regions.
 
 AVERAGE REGIONAL COVERAGE
 ![image](https://github.com/user-attachments/assets/e52482e7-c715-443c-a865-ea2a39294aab)
+
 Samsung faces a strategic paradox where Latin America leads global 5G infrastructure coverage at 69.86% but generates only 00.10% revenue while Asia-Pacific has the lowest coverage at 62.99% yet dominates revenue at 37.57%, with Europe (68.68% coverage, 23.38% revenue) and North America (67.72% coverage, 19.30% revenue) showing more balanced infrastructure-to-revenue ratios, indicating that while all regions demonstrate adequate 5G readiness above 62%, Samsung must address the coverage-revenue disconnect through targeted pricing strategies in Latin America and capitalize on Asia-Pacific’s infrastructure expansion potential to maximize growth in its strongest market, proving that network infrastructure alone doesn’t guarantee commercial success without proper market positioning and economic accessibility
 
 QUATERLY REVENUE GROWTH
 ![image](https://github.com/user-attachments/assets/4685d379-221f-479d-8e09-59fea32a7fc8)
+
 Samsung’s quarterly 5G revenue demonstrates significant seasonal volatility with Q1 peaking at $2.97 billion before declining $304 million to Q2’s $2.67 billion, continuing downward to Q3’s trough of $2.43 billion, then recovering to Q4’s $2.71 billion, creating a $544 million swing that reveals challenging mid-year market conditions possibly from competitive pressures or consumer spending patterns, while confirming Q1 as optimal for major product launches and Q4 holiday season importance, indicating Samsung must develop more consistent demand generation strategies to address the consecutive Q2-Q3 weakness and capitalize on the strong seasonal bookends for sustained quarterly performance.
 
 TOP 5 PRODUCT MODELS BY REVENUE
 ![image](https://github.com/user-attachments/assets/e489d0a2-7d7e-486f-b87d-8c3496b300a5)
+
 Samsung’s top 5 5G models generate over $4.36 billion in combined revenue with Galaxy A14 5G leading at $913.1 million despite only 00.16% market share, followed by Galaxy S23 5G’s $894.8 million with 60.86% share, Galaxy S22 5G’s $870.6 million with 07.43% share, Galaxy A52 5G’s $863.1 million with 79.52% share, and Galaxy Z Fold2 5G’s $824.9 million with 97.30% share, demonstrating Samsung’s successful differentiated pricing strategy where premium models achieve high revenue through value-based pricing rather than volume sales, while the portfolio balance across flagship, mid-range, budget premium, and innovative foldable categories validates Samsung’s market segmentation approach and confirms that strategic product concentration maximizes returns from select high-performing models rather than pursuing broad market share competition.
 
 TOP FIVE PRODUCTS MODELS BY UNITS SOLD
 ![image](https://github.com/user-attachments/assets/5a22a2ef-8484-4f10-aba8-6265345dc038)
+
 Samsung’s unit sales leadership is dominated by Galaxy Z Fold2 5G at 912,096 units, followed closely by Galaxy A73 5G (909,507), Galaxy Z Flip3 5G (901,892), Galaxy A52 5G (891,357), and Galaxy A14 5G (879,660), creating a remarkably consistent volume distribution within a narrow 32,436-unit range that validates Samsung’s strategic innovation investment with two foldable models leading sales despite premium pricing, while three mid-range models (A73, A52, A14) confirm successful penetration of price-conscious segments, demonstrating Samsung’s unique ability to drive substantial volume across both cutting-edge foldable technology and traditional smartphone categories without significant performance gaps, proving that consumer demand supports both innovative form factors and value-oriented offerings equally well in Samsung’s diversified portfolio approach.
 
 TOP FIVE MODELS BASED ON PERCENTAGE AVERAGE 5G PREFERENCE
-![image](https://github.com/user-attachments/assets/c148c63d-5749-4021-b924-0c0f5ff29e4a)
+
 ![image](https://github.com/user-attachments/assets/02765b73-5bb8-4bce-8e6c-1395bf3bfd1e)
+
+Samsung’s 5G preference rankings reveal consumer prioritization of affordability over premium features, with Galaxy A14 5G leading at 77.21%, followed by Galaxy A73 5G (73.42%), Galaxy A52 5G (72.46%), Galaxy S22 5G (72.39%), and Galaxy S23 5G (71.86%), demonstrating an inverse relationship between device pricing and 5G adoption enthusiasm where four mid-range models dominate preference rankings, validating Samsung’s democratization strategy for 5G technology through budget-friendly offerings while highlighting that the newest flagship S23 shows lowest preference despite premium positioning, indicating cost-conscious consumers prioritize accessible 5G connectivity over cutting-edge specifications and suggesting Samsung must better communicate flagship value propositions to justify premium pricing in the competitive 5G market where affordability drives adoption decisions more than advanced features.
+
+FINAL DASHBOARD
+
+![image](https://github.com/user-attachments/assets/e2d0d5ff-0a50-4cf3-a3b2-1e5469424eea)
+
+The final dashboard highlights the combined correlations and relationship between the individual charts with the help of slicers.
+
+OBSERVATIONS AND ACTIONABLE RECOMENDATIONS
+
+Key Observations
+
+Revenue Performance:
+
+Total revenue of $10.77 billion over the 6-year period shows strong market presence
+
+Revenue peaked in 2021 at $1.95 billion but declined significantly by 2024 to $1.33 billion
+
+This 32% decline from peak suggests market saturation or increased competition
+
+Regional Performance:
+
+Asia-Pacific dominates with 37.57% of revenue, followed by Europe (23.38%) and North America (19.30%)
+
+Latin America shows the highest 5G coverage at 69.86%, indicating strong infrastructure adoption
+
+Despite high coverage, Latin America contributes only 00.10% to revenue, suggesting pricing or volume challenges
+
+Product Portfolio:
+
+Galaxy Z Fold2 5G is the top-selling model with 912,096 units and highest revenue ($913.1M)
+
+Strong performance across premium models (Galaxy A14, S23, S22, A52)
+
+Galaxy A14 5G shows highest 5G preference at 77.21%, indicating consumer demand for affordable 5G
+
+Quarterly Trends:
+
+Q1 shows strongest performance with $2.97 billion
+
+Consistent decline through quarters, ending at $2.71 billion in Q4
+
+Actionable Recommendations
+
+1. Market Recovery Strategy
+
+Investigate root causes of 2024 revenue decline through competitor analysis and market research
+
+Develop targeted campaigns to regain market share in key regions
+
+2. Regional Optimization
+
+Latin America: Leverage high 5G coverage (69.86%) with affordable 5G models and localized pricing strategies
+
+Asia-Pacific: Maintain leadership position through premium product launches and partnerships
+
+Europe/North America: Focus on innovation differentiation to combat competitive pressure
+
+3. Product Strategy
+
+Expand the Galaxy A series given strong consumer preference for affordable 5G (A14’s 77.21% preference rate)
+
+Continue investment in foldable technology, as Z Fold2 shows strong revenue generation
+
+Balance premium and mid-range portfolio to capture broader market segments
+
+4. Quarterly Performance
+
+Address Q4 decline through holiday season promotions and new product launches
+
+Implement seasonal marketing strategies to maintain consistent quarterly growth
+
+5. 5G Infrastructure Alignment
+
+Align product launches with regional 5G rollout schedules
+
+Partner with telecom providers for bundled offerings, especially in high-coverage regions
+
+6. Data-Driven Decision Making
+
+Implement real-time sales tracking to identify trends earlier
+
+Conduct quarterly market analysis to adjust strategies proactively
+
+The data suggests Samsung needs to focus on reversing the recent revenue decline while capitalizing on strong regional 5G infrastructure and consumer preference for affordable 5G devices.
+
+CONCLUSION
+
+Conclusion and Limitations
+
+Conclusion
+
+Samsung’s 5G mobile phone performance from 2019–2024 reveals a company successfully navigating market volatility while building a diversified global portfolio. The analysis demonstrates Samsung’s strategic evolution from early 5G market leadership to mature market adaptation, with total revenue of $10.77 billion across the period. Key achievements include establishing Asia-Pacific dominance (37.57% revenue share), successful foldable technology commercialization led by Galaxy Z Fold2, and effective product portfolio diversification spanning premium to budget segments. However, the 32% revenue decline from 2021 peak to 2023 trough, followed by strong 2024 recovery, indicates Samsung has learned to adapt to competitive pressures and market saturation. The company’s greatest opportunity lies in Latin America, where 69.86% 5G coverage contrasts sharply with minimal 00.10% revenue contribution, suggesting significant untapped potential through localized pricing strategies. Consumer preference data confirms Samsung’s democratization approach is working, with mid-range models dominating 5G preference rankings, validating the strategy of making 5G technology accessible rather than premium-exclusive.
+
+Limitations:
+
+1. Data Scope Constraints: The analysis relies solely on aggregate revenue, unit sales, and preference data without access to profit margins, competitive market share context, or detailed consumer demographic breakdowns that would provide deeper strategic insights.
+
+2. Temporal Analysis Gaps: While yearly trends are clear, the absence of monthly or weekly granular data limits understanding of specific market triggers, product launch impacts, or seasonal micro-trends that could inform tactical decision-making.
+
+3. Competitive Landscape Absence: The analysis lacks comparative data against Apple, Chinese manufacturers, or other competitors, making it impossible to assess whether Samsung’s performance reflects company-specific success or broader market trends.
+
+4. Geographic Granularity Limitations: Regional data aggregation masks country-specific performance variations, economic factors, and local market conditions that could significantly impact strategic recommendations, particularly for Latin America’s expansion potential.
+
+5. Consumer Behavior Insights: The data doesn’t reveal consumer switching patterns, brand loyalty metrics, upgrade cycles, or purchase decision factors beyond 5G preference, limiting understanding of market dynamics and customer retention strategies.
+
+6. Financial Depth Restrictions: Absence of cost structure, R&D investment allocation, marketing spend effectiveness, or profitability by product line prevents comprehensive ROI analysis and investment prioritization recommendations.
+
+7. Market Context Deficiency: The analysis cannot account for external factors like economic conditions, regulatory changes, carrier partnerships, or technological disruptions that significantly influence 5G adoption and Samsung’s market position.
+
+Future Research
+
+1. Include Demographic Profiling — Collect and analyze customer age, gender, income, and location data to enable more targeted marketing and product personalization.
+
+2. Conduct Year-over-Year Comparisons — Analyze data across multiple years to uncover long-term trends, seasonality patterns, and growth trajectories.
+
+3. Measure Customer Satisfaction and Sentiment — Integrate surveys, reviews, or social media sentiment analysis to understand the “why” behind customer behavior.
+
+4. Analyze Profitability per Category — Go beyond revenue and unit sales by incorporating cost and profit margin data to identify truly high-performing segments.
+
+REFERENCEE: The data for this project was obtained from Kaggle.com
+
+
+
+
+
